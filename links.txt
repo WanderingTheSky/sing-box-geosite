@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/WeChat/WeChat.list
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/Abroad.yaml?token=GHSAT0AAAAAACUMGJSQKM3ARWHBYNBEH3J2ZVYRZSA
+https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/Domestic.yaml?token=GHSAT0AAAAAACUMGJSQO26GE3C6ADEHNXRYZVYR4SQ
