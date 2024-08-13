@@ -2,3 +2,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/Abroad.yaml?token=GHSAT0AAAAAACUMGJSQKM3ARWHBYNBEH3J2ZVYRZSA
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/Domestic.yaml?token=GHSAT0AAAAAACUMGJSQO26GE3C6ADEHNXRYZVYR4SQ
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_Domain.txt
+https://raw.gitmirror.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownload/GameDownload_No_Resolve.yaml
+https://raw.gitmirror.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN_No_Resolve.yaml
+https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/Steam.yaml?token=GHSAT0AAAAAACUMGJSQWSZPZGJD7O4KXWXKZV2WLUQ
+https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/Game_Platform.yaml?token=GHSAT0AAAAAACUMGJSRTDCMVJ6Q6K4Z6FLUZV2WL3Q
