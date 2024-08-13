@@ -1,4 +1,10 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_suffix": [
+        "flmsgo.xyz"
+      ]
+    }
+  ],
   "version": 1
 }

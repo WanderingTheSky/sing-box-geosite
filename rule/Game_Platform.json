@@ -1,4 +1,68 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "cloudsync-prod.s3.amazonaws.com",
+        "eaasserts-a.akamaihd.net",
+        "gog.salesmanago.com",
+        "originasserts.akamaized.net",
+        "rtm.tnt-ea.com",
+        "uplaypc-s-ubisoft.cdn.ubi.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "battle.net",
+        "battlenet.com",
+        "blizzard.com",
+        "ea.com",
+        "epicgames.com",
+        "epicgames.dev",
+        "gamepass.com",
+        "gog-statics.com",
+        "gog.com",
+        "gog.qtlglb.com",
+        "helpshift.com",
+        "media-rockstargames-com.akamaized.net",
+        "nintendo-europe.com",
+        "nintendo.be",
+        "nintendo.co.jp",
+        "nintendo.co.uk",
+        "nintendo.com",
+        "nintendo.com.au",
+        "nintendo.de",
+        "nintendo.es",
+        "nintendo.eu",
+        "nintendo.fr",
+        "nintendo.it",
+        "nintendo.jp",
+        "nintendo.net",
+        "nintendo.nl",
+        "nintendowifi.net",
+        "origin.com",
+        "paragon.com",
+        "playstation.com",
+        "playstation.net",
+        "playstationnetwork.com",
+        "rockstargames.com",
+        "rsg.sc",
+        "sony.com",
+        "sonyentertainmentnetwork.com",
+        "ubi.com",
+        "ubisoft-orbit-savegames.s3.amazonaws.com",
+        "ubisoft-uplay-savegames.s3.amazonaws.com",
+        "ubisoft.com",
+        "unrealengine.com",
+        "uplay.com",
+        "videos-rockstargames-com.akamaized.net",
+        "xbox.com",
+        "xboxab.com",
+        "xboxab.net",
+        "xboxlive.com",
+        "xboxservice.com",
+        "xboxservices.com"
+      ]
+    }
+  ],
   "version": 1
 }
