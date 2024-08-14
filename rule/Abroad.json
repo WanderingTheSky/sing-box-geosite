@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain_keyword": [
+        "bing",
         "msn",
         "nvidia",
         "outlook"
