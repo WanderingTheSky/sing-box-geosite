@@ -1,11 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-        "steammobile.akamaized.net"
-      ]
-    },
-    {
       "domain_keyword": [
         "steamstore"
       ]
@@ -13,11 +8,7 @@
     {
       "domain_suffix": [
         "steam-api.com",
-        "steamcdn-a.akamaihd.net",
-        "steamcontent.tnkjmec.com",
-        "steampipe.akamaized.net",
-        "steampowered.com",
-        "steamstore-a.akamaihd.net"
+        "steampowered.com"
       ]
     },
     {
