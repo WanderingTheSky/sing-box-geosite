@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dns.weixin.qq.com",
+        "dns.weixin.qq.com.cn",
+        "extshort.weixin.qq.com",
+        "short.weixin.qq.com",
+        "szextshort.weixin.qq.com",
+        "szminorshort.weixin.qq.com",
+        "szshort.weixin.qq.com"
+      ]
+    }
+  ],
+  "version": 1
+}
