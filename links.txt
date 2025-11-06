@@ -15,3 +15,4 @@ https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/WeChat_Short.y
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/WeChat_Custom.yaml
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/WeChat.yaml
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/refs/heads/yaml/OPPO.yaml
+https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/refs/heads/Rule/Apple.list
