@@ -1,4 +1,18 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_keyword": [
+        "bing",
+        "msn",
+        "nvidia",
+        "outlook"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "x.com"
+      ]
+    }
+  ],
   "version": 1
 }
