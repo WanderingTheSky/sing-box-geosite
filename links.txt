@@ -16,3 +16,5 @@ https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/WeChat_Custom.
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/yaml/WeChat.yaml
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/refs/heads/yaml/OPPO.yaml
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/refs/heads/Rule/Apple.list
+https://github.com/WanderingTheSky/Clash-Rule/raw/refs/heads/Rule/Anthropic.list
+https://github.com/WanderingTheSky/Clash-Rule/raw/refs/heads/Rule/Anthropic_IP.list
