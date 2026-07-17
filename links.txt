@@ -18,3 +18,4 @@ https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/refs/heads/yaml/OPP
 https://raw.githubusercontent.com/WanderingTheSky/Clash-Rule/refs/heads/Rule/Apple.list
 https://github.com/WanderingTheSky/Clash-Rule/raw/refs/heads/Rule/Anthropic.list
 https://github.com/WanderingTheSky/Clash-Rule/raw/refs/heads/Rule/Anthropic_IP.list
+https://github.com/WanderingTheSky/Clash-Rule/blob/Rule/AI%40cn.list
