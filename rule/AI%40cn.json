@@ -1,0 +1,70 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "aip.baidubce.com",
+        "api.deepseek.com",
+        "api.minimax.chat",
+        "api.moonshot.cn",
+        "ark.cn-beijing.volces.com",
+        "ark.volcengine.com",
+        "dashscope.aliyuncs.com",
+        "hunyuan.cloud.tencent.com",
+        "open.bigmodel.cn",
+        "spark-api.xf-yun.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "01.ai",
+        "ai",
+        "ai.gitee.com",
+        "baichuan-ai.cn",
+        "baichuan-ai.com",
+        "bigmodel.cn",
+        "chatglm.cn",
+        "deepseek.cn",
+        "deepseek.com",
+        "doubao.cn",
+        "doubao.com",
+        "doubao.net",
+        "ernie.bot",
+        "glm.ai",
+        "hunyuan.tencent.com",
+        "kimi.ai",
+        "kimi.com",
+        "kunlun.ai",
+        "lingyiwanwu.com",
+        "minimax.chat",
+        "minimaxi.com",
+        "modelarts.cn",
+        "modelscope.cn",
+        "moonshot-ai.com",
+        "moonshot.cn",
+        "myhuaweicloud.com",
+        "n.cn",
+        "nami.ai",
+        "opencsg.com",
+        "qwen.ai",
+        "sensenova.cn",
+        "sensetime.com",
+        "siliconflow.cn",
+        "sparkdesk.cn",
+        "stepchat.com",
+        "stepfun.ai",
+        "stepfun.com",
+        "tiangong.cn",
+        "tongyi.aliyun.com",
+        "tongyi.com",
+        "volcengine.com",
+        "volces.com",
+        "wenxin.baidu.com",
+        "xfyun.cn",
+        "yiyan.baidu.com",
+        "yuanbao.tencent.com",
+        "zhipuai.cn"
+      ]
+    }
+  ],
+  "version": 1
+}
